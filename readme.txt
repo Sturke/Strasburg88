@@ -1,1 +1,1 @@
-This is a test website to deploy to Netlify and possibly use for Class of 88 Reunion.
+This is a test website to deploy to Netlify and possibly use for Strasburg High School Class of 1988 Reunion.
